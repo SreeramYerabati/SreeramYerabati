@@ -1,1 +1,27 @@
-# Sreeram-Chandra
+# 💫 About Me:
+# Hi there! 👋 I'm Sreeram Chandra<br><br>
+Aspiring Data Analyst | SQL • Python • Power BI • Tableau • Excel<br><br>
+I'm an aspiring **Data Analyst** with hands-on experience in transforming raw data into meaningful insights through analytics, visualization, and business intelligence. I enjoy solving real-world business problems using data and continuously expanding my technical skill set through practical projects.<br><br>Although I'm at the beginning of my professional journey, I've built multiple end-to-end data analytics projects that reflect my ability to work with modern data tools, cloud platforms, and analytical workflows. I believe the best way to learn is by building, and I'm always working on new projects to sharpen my skills.<br><br>
+🚀 What I Work With<br><br>- 📊 Data Analysis & Business Intelligence<br>- 📈 Data Visualization & Dashboard Development<br>- 🗄️ SQL for Data Querying and Analysis<br>- 🐍 Python for Data Analysis & Visualization<br>- ☁️ Cloud-based Data Warehousing<br>- 📂 Data Cleaning, Transformation & Reporting<br><br>
+🛠️ Technical Skills<br><br>**Languages & Querying**<br>- SQL<br>- Python<br><br>**Analytics & BI Tools**<br>- Microsoft Excel<br>- Power BI<br>- Tableau<br><br>**Python Libraries**<br>- Pandas<br>- NumPy<br>- Matplotlib<br>- Seaborn<br><br>**Cloud & Data Platforms**<br>- Snowflake<br>- AWS<br><br>
+🌱 Currently Learning<br><br>- Advanced SQL Optimization<br>- Data Engineering Concepts<br>- AWS Data Analytics Services<br>- Snowflake Performance Optimization<br>- ETL Pipelines<br>- Real-world Business Case Studies<br><br>
+📂 GitHub Focus<br><br>You'll find repositories covering:<br><br>- Data Cleaning & Exploration<br>- Interactive Power BI Dashboards<br>- Tableau Visualizations<br>- SQL Case Studies<br>- Python Data Analysis Projects<br>- Snowflake Data Warehouse Projects<br>- AWS-based Data Analytics Projects<br>- End-to-End Analytics Solutions<br><br>
+
+🎯 Career Objective
+As an aspiring Data Analyst, I'm looking for opportunities to begin my professional journey through an internship or entry-level role. My goal is to transform data into actionable insights while continuously expanding my expertise in analytics, cloud technologies, and business intelligence.
+I believe in learning by building, embracing challenges, and contributing to teams that value curiosity, innovation, and data-driven thinking.
+> *"Learning never stops, and every project is an opportunity to grow."*
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sreeramchandra-y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreeramchandra80@gmail.com) 
+
+# 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SreeramYerabati&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
