@@ -14,7 +14,7 @@ I believe in learning by building, embracing challenges, and contributing to tea
 
 ## 🌐 Socials:
 https://www.linkedin.com/in/sreeramchandra-y/ <br>
-mailto:sreeramchandra80@gmail.com 
+Contact: sreeramchandra80@gmail.com 
 
 ### 🔝 My Projects.
 (https://github.com/SreeramYerabati/Loan-Analysis.git)<br>
