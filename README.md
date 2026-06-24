@@ -13,7 +13,7 @@ I believe in learning by building, embracing challenges, and contributing to tea
 > *"Learning never stops, and every project is an opportunity to grow."*
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sreeramchandra-y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreeramchandra80@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/sreeramchandra-y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreeramchandra80@gmail.com) 
 
 ### 🔝 My Projects.
 (https://github.com/SreeramYerabati/Loan-Analysis.git)<br>
