@@ -1,5 +1,6 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Sreeram Chandra<br><br>
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/23c6d90b-0600-4300-93c6-619bb2db4e7e" />
+
+Hi there! 👋 I'm Sreeram Chandra<br><br>
 Aspiring Data Analyst | SQL • Python • Power BI • Tableau • Excel<br><br>
 I'm an aspiring **Data Analyst** with hands-on experience in transforming raw data into meaningful insights through analytics, visualization, and business intelligence. I enjoy solving real-world business problems using data and continuously expanding my technical skill set through practical projects.<br><br>Although I'm at the beginning of my professional journey, I've built multiple end-to-end data analytics projects that reflect my ability to work with modern data tools, cloud platforms, and analytical workflows. I believe the best way to learn is by building, and I'm always working on new projects to sharpen my skills.<br><br>
 
