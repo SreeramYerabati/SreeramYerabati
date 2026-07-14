@@ -20,7 +20,8 @@ Contact: sreeramchandra80@gmail.com
 ### 🔝 My Projects.
 (https://github.com/SreeramYerabati/Major-League-Baseball-Analysis.git)<br>
 (https://github.com/SreeramYerabati/Loan-Analysis.git)<br>
-(https://github.com/SreeramYerabati/Agriculture-Analysis.git)
+(https://github.com/SreeramYerabati/Agriculture-Analysis.git)<br>
+(https://github.com/SreeramYerabati/Ipl_Player_Analysis.git)
 
 ---
 
